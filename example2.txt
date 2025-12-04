@@ -1,2 +1,2 @@
 Hello again, from Git Bash
-Edit made ooooo
+Edit made oooo
